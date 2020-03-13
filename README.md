@@ -79,6 +79,8 @@ Last I looked, PPI couldn't handle much newer than Perl v5.10 or v5.12. I don't 
 
 ## Raku ecosystem
 
+### SparrowHub
+
 [SparrowHub](http://repo.westus.cloudapp.azure.com/hub) is a repository of [Sparrow](https://github.com/melezhik/Sparrow6  ) plugins - reusable scripts for various automation tasks. Plugins are written on many languages and get run eithor by `cli` or through an programmatic Raku API. Both Raku and Perl community might gain an advantage of plugins eco system easing developers life. SparrowHub could be thought as a metacpan/raku modules but with more practical approach - find a plugin and run it straight away. It's dead easy to create new plugins and distribute them. 
 
 So a proposal is:

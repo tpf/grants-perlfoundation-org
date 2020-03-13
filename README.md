@@ -6,7 +6,7 @@ Take a look at this list and give us a grant proposal. If you know an opportunit
 
 While we try to keep this list relevant, things can easily get out of date. Before grabbing a task, check that a similar investment is not done recently.
 
-⚠️ *Disclaimer* ⚠ The list does not guarantee that TPF will fund these grant proposals.
+⚠️ *Disclaimer* ⚠️ The list does not guarantee that TPF will fund these grant proposals.
 
 ## Perl core
 

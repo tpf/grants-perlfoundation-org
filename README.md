@@ -1,5 +1,3 @@
-# Grant ideas for the TPF Grants.
-
 People give us various grant ideas. If you are looking to spend some time to help the community and get some cash in return, 
 
 Take a look at this list and give us a grant proposal. If you know an opportunity to improve Perl or Raku, you can [open an issue](https://github.com/tpf/grants-perlfoundation-org/issues) or [submit a pull request](https://github.com/tpf/grants-perlfoundation-org/pulls) and it will show up here.

@@ -44,6 +44,11 @@ If one could unpack on a stream, one could unpack the picture that is known, hav
 Extreme “win” can be taken where the size of the data being read for a given picture is differing per architecture, like native floats.
 
 ## CPAN
+
+### [PSGI protocol for HTTP::Tiny](https://perl-foundation-outreach.github.io/gsoc-2020-ideas/perl/HTTP-Tiny-PSGI.html)
+
+Enhance HTTP::Tiny to support it communicating via PSGI. The primary use case being to assist in testing. See also LWP::Protocol::PSGI and Furl::PSGI.
+
 ### [Net::Google::Calendar authentication failure](https://rt.cpan.org/Public/Bug/Display.html?id=100421)
 
 This library no longer works as it uses the Calendar v2 API which Google discontinued. It needs to be updated to the new API.

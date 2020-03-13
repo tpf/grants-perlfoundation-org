@@ -85,4 +85,8 @@ Last I looked, PPI couldn't handle much newer than Perl v5.10 or v5.12. I don't 
 
 ## Documentation
 
+### Add code examples
+
+Allow adding of notes (such as code examples) with the documentation, as is done on the PHP documentation site, e.g. https://www.php.net/manual/en/pcre.pattern.php
+
 ## Other areas of interest

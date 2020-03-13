@@ -2,11 +2,13 @@
 
 People give us various grant ideas. If you are looking to spend some time to help the community and get some cash in return, 
 
-Take a look at this list and give us a grant proposal. If you know an opportunity to improve Perl, you can [open an issue](https://github.com/tpf/grants-perlfoundation-org/issues) or [submit a pull request](https://github.com/tpf/grants-perlfoundation-org/pulls) and it will show up here.
+Take a look at this list and give us a grant proposal. If you know an opportunity to improve Perl or Raku, you can [open an issue](https://github.com/tpf/grants-perlfoundation-org/issues) or [submit a pull request](https://github.com/tpf/grants-perlfoundation-org/pulls) and it will show up here.
 
 While we try to keep this list relevant, things can easily get out of date. Before grabbing a task, check that a similar investment is not done recently.
 
 ⚠️ *Disclaimer* ⚠️ The list does not guarantee that TPF will fund these grant proposals.
+
+# Perl
 
 ## Perl core
 
@@ -72,3 +74,15 @@ Last I looked, PPI couldn't handle much newer than Perl v5.10 or v5.12. I don't 
 ## External site
 
 ### [BountySource has a few ideas on Perl.](https://www.bountysource.com/teams/perl/issues)
+
+# Raku
+
+## Raku core
+
+## Raku ecosystem
+
+## Tooling
+
+## Documentation
+
+## Other areas of interest

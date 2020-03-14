@@ -64,6 +64,30 @@ Side node: Eventually, I'm too dumb to see that we don't need one because Perl c
 
 Last I looked, PPI couldn't handle much newer than Perl v5.10 or v5.12. I don't have a comprehensive list of the stuff it can't do, but it wouldn't be tiny. Make it all work.
 
+### Push to have Perl support in github code navigation
+
+Github is currently the major *social network for developers* and provide a good exposure for the Perl modules and code and a nice tool for helping Perl developers (both coding and CI/CD through github actions or travis ci, circle ci or whatever).
+
+Github is experimenting/putting in place the code navigation.
+
+Below the alert to introduce this new feature to developers :
+
+![Code navigation alert](./githubcodenav/codenavalert.png)
+
+And next a real life working example : 
+
+![Code navigation example](./githubcodenav/codenavexample.png)
+
+It is available since november 2019 (see the [annoucement](https://github.blog/changelog/2019-11-13-code-navigation-is-now-available-for-all-go-python-and-ruby-repositories/)) and I guess it will grow as this feature is just a "must have" for developers (we have multiple code browsers in my company : bitbucket native, grok and woboq !).
+
+The [doc of github](https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github) says that it is based on [semantic](https://github.com/github/semantic) which does not support Perl as of today.
+
+The purpose of this grant would be to :
+* Implement Perl support in semantic 
+* Push Github folks to enable it (first as experimental) - maybe it could be discussed even before implementation :smiley:
+
+It is written in haskell (and in the past Perl and Haskell folks were good friends right ? :P)
+
 ## Documentation
 ### [DBIx::Class re-documentation](http://blogs.perl.org/users/makoto_nozaki/2015/07/grant-idea---dbixclass-re-documentation.html) (from @ribasushi)
 

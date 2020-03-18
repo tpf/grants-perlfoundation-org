@@ -118,6 +118,11 @@ So a proposal is:
 
 ## Tooling
 
+The MoarVM and Rakudo CI toolchains on GitHub (using Travis CI, CircleCI, and AppVeyor) could have a number of enhancements added. Here are three things in particular:
+  * Code coverage: There is some automation of MoarVM coverage reports when running the NQP test suite [here](https://github.com/MoarVM/coverage), but that could be expanded to include results from running the Rakudo test suite as well a Roast spectest. Additionally, Rakudo can produce coverage reports of its code, that would also make sense to automate for its test suite and a Roast spectest.
+  * Benchmarking: There are [some benchmarks](https://github.com/japhb/perl6-bench) that are run every day, but [the results](http://moarvm.com/measurements/perl6-bench/) have been broken for about two years.
+  * Regression tests: [Blin](https://github.com/perl6/Blin) could be run automatically (e.g., at every NQP bump, every 10 or so Rakudo commits).
+
 ## Documentation
 
 ### Document Red

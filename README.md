@@ -83,9 +83,12 @@ It is available since november 2019 (see the [annoucement](https://github.blog/c
 
 The [doc of github](https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github) says that it is based on [semantic](https://github.com/github/semantic) which does not support Perl as of today.
 
+![Code navigation language support](./githubcodenav/codenavlanguagesupport.png)
+
+
 The purpose of this grant would be to :
 * Implement Perl support in [semantic](https://github.com/github/semantic)
-* Push Github folks to enable it (first as experimental) - maybe it could be discussed even before implementation :
+* Push Github folks to enable it (first as experimental) - maybe it could be discussed even before implementation :)
 
 It is written in haskell (and in the past Perl and Haskell folks were good friends right ? :P)
 

@@ -92,7 +92,7 @@ The purpose of this grant would be to :
 
 It is written in haskell (and in the past Perl and Haskell folks were good friends right ? :P)
 
-Some resources that could help [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (Haskell tutorial) and a [Haskell based parser for a Perl like language](https://github.com/ashgti/DTI). 
+Some resources that could help [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (Haskell tutorial), a [Haskell based parser for a Perl like language](https://github.com/ashgti/DTI) or a [Perl 5 grepping tool or isomorphic code written in haskell](https://github.com/ikkeps/isocode).
 
 ## Documentation
 ### [DBIx::Class re-documentation](http://blogs.perl.org/users/makoto_nozaki/2015/07/grant-idea---dbixclass-re-documentation.html) (from @ribasushi)

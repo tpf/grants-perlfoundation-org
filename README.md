@@ -44,6 +44,16 @@ If one could `unpack` on a stream, one could `unpack` the picture that is known,
 
 Extreme "win" can be taken where the size of the data being read for a given picture is differing per architecture, like native floats.
 
+## Learning Perl
+
+### Code Combat support for Perl.
+
+https://codecombat.com is a great website for introducing programming to kids. The language they use is Python by default but you can switch to other languages. This could also be a great tool for learning Perl.
+
+When they were asked in their slack, they responded to the idea of adding Perl:
+
+It’s a bit tricky, but doable. This is the open-source code interpreter we made for this: https://github.com/codecombat/esper.js – to add new programming languages for CodeCombat, we add plugins to Esper to support them. A plugin consists of a parser for the language (implemented in JavaScript, parsing to Mozilla-JavaScript-compatible AST) and a JavaScript runtime that implements the needed semantic differences between normal JS behavior and the target language. That’s how we have JS, Python, CoffeeScript, Lua, Java, and C++.
+
 ## CPAN
 
 ### [PSGI protocol for HTTP::Tiny](https://perl-foundation-outreach.github.io/gsoc-2020-ideas/perl/HTTP-Tiny-PSGI.html)

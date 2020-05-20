@@ -60,6 +60,10 @@ It’s a bit tricky, but doable. This is the open-source code interpreter we mad
 
 Enhance [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) to support it communicating via [PSGI](https://metacpan.org/pod/PSGI). The primary use case being to assist in testing. See also [LWP::Protocol::PSGI](https://metacpan.org/pod/LWP::Protocol::PSGI) and [Furl::PSGI](https://metacpan.org/pod/Furl::PSGI).
 
+### [Convert CHI::Driver::Memcached to Moo](https://github.com/jonswar/perl-chi-driver-memcached/issues/3)
+
+The base [CHI](https://metacpan.org/pod/CHI) of the Caching Handler Interface was swapped from Moose to Moo in v0.58 (v0.60 being current). Arguably the most common Driver [CHI::Driver::Memcached](https://metacpan.org/pod/CHI::Driver::Memcached) for Memcache still uses Moose. Swapping this driver would reduce the footprint of this common configuration and benefit everything that uses it. Other common backends might also get the same treatment as part of a grant.
+
 ### [Net::Google::Calendar authentication failure](https://rt.cpan.org/Public/Bug/Display.html?id=100421)
 
 This library no longer works as it uses the Calendar v2 API which [Google discontinued](https://developers.googleblog.com/2014/07/upgrade-now-to-calendar-apiv3.html). It needs to be updated to the [new API](https://developers.google.com/calendar/) (v3).

@@ -115,6 +115,13 @@ Fixing up the *better-than-most-but-still-terrible* documentation of DBIC is a ~
 
 Given that [DBIx::Class](https://metacpan.org/pod/DBIx::Class) is a "staple-module" in the contemporary Perl ecosystem, I believe it is reasonable to expect for the TPF to "pick up the tab" if someone with the right qualifications steps up.
 
+## Accessibility
+### As a precusor to inform further work, draft a taxonomy of standards and benchmarks pertinent to accessibility for websites and their content. Make recommendations as to which should be adopted by the TPF and hopefully by well known Perl mastheads. (See also this [metacpan bug](https://github.com/metacpan/metacpan-web/issues/2195))
+
+### Benchmark and assess TPF assets based on the adopted standards. Create a plan of action with milestones and additional potential grant projects to towards compliance with the adopted standards.
+
+### All the milestones that will deliver on the plan
+
 ## External site
 
 ### [BountySource has a few ideas on Perl](https://www.bountysource.com/teams/perl/issues)

@@ -108,7 +108,7 @@ It is written in haskell (and in the past Perl and Haskell folks were good frien
 
 Some resources that could help [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (Haskell tutorial), a [Haskell based parser for a Perl like language](https://github.com/ashgti/DTI) or a [Perl 5 grepping tool or isomorphic code written in haskell](https://github.com/ikkeps/isocode).
 
-### Create and contribute Perl definition for Language Server Protocol
+### Create and contribute a Perl definition for Language Server Protocol
 
 Quoting from [langserver.org](https://langserver.org):
 

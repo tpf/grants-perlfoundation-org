@@ -108,6 +108,20 @@ It is written in haskell (and in the past Perl and Haskell folks were good frien
 
 Some resources that could help [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (Haskell tutorial), a [Haskell based parser for a Perl like language](https://github.com/ashgti/DTI) or a [Perl 5 grepping tool or isomorphic code written in haskell](https://github.com/ikkeps/isocode).
 
+### Create and contribute a Perl definition for Language Server Protocol
+
+Quoting from [langserver.org](https://langserver.org):
+
+> The Language Server protocol is used between a tool (the client) and a language smartness provider (the server) to integrate features like auto complete, go to definition, find all references and alike into the tool.
+
+> The LSP was created by Microsoft to define a common language for programming language analyzers to speak. Today, several companies have come together to support its growth, including Codenvy, Red Hat, and Sourcegraph, and the protocol is becoming supported by a rapidly growing list of editor and language communities. See below for details on and links to current client and server implementations.
+
+> LSP creates the opportunity to reduce the m-times-n complexity problem of providing a high level of support for any programming language in any editor, IDE, or client endpoint to a simpler m-plus-n problem.
+
+> For example, instead of the traditional practice of building a Python plugin for VSCode, a Python plugin for Sublime Text, a Python plugin for Vim, a Python plugin for Sourcegraph, and so on, for every language, LSP allows language communities to concentrate their efforts on a single, high performing language server that can provide code completion, hover tooltips, jump-to-definition, find-references, and more, while editor and client communities can concentrate on building a single, high performing, intuitive and idiomatic extension that can communicate with any language server to instantly provide deep language support.
+
+Perl is yet to be included!
+
 ## Documentation
 ### [DBIx::Class re-documentation](http://blogs.perl.org/users/makoto_nozaki/2015/07/grant-idea---dbixclass-re-documentation.html) (from @ribasushi)
 

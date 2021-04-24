@@ -75,6 +75,32 @@ We (the Perl community) currently do not have a CPAN module that handles [OData]
 Side node: Eventually, I'm too dumb to see that we don't need one because Perl can do it out oft he box. But if this is the case, eventually, it would be a good idea to put up a grant to create a document describing how to use OData with Perl (like this one).
 
 ## Tooling
+
+### A regularly updated compendium of Perl IDEs to be hosted on perl.org
+
+Results of the (survey of newcomers to
+Perl)[https://news.perlfoundation.org/post/newperluserssurvey]
+indicate that we need a page on perl.org listing IDEs supporing
+Perl, indicating whether they're being actively maintained, a brief summary
+of their functionality and links to where you can learn more.
+
+This page will need to be regularly updated.
+
+#### Existing attempts
+The following attempts at this have not been maintained
+* https://www.perlmonks.org/?node=Perl%20Development%20Tools
+* https://perl-begin.org/IDEs-and-tools/
+* https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Perl
+* https://perlmaven.com/perl-editor
+
+#### Examples of IDEs to cover
+* [TextMate](https://github.com/textmate/perl.tmbundle)
+* [Visual Studio](https://marketplace.visualstudio.com/items?itemName=richterger.perl&ssr=false#overview)
+* [Intellij](https://plugins.jetbrains.com/plugin/7796-perl/) with an [introdctory video](https://www.youtube.com/watch?v=59TBF-pcnDk)
+* [Eclipse](https://marketplace.eclipse.org/content/epic-eclipse-perl-integration)
+* [Komodo](https://www.activestate.com/products/komodo-ide/perl-editor/)
+* [Padre](https://padre.perlide.org/)
+
 ### [Update PPI for more recent constructs](https://rjbs.manxome.org/rubric/entry/1964) (from @rjbs)
 
 Last I looked, [PPI](https://metacpan.org/pod/PPI) couldn't handle much newer than Perl *v5.10* or *v5.12*. I don't have a comprehensive list of the stuff it can't do, but it wouldn't be tiny. Make it all work.

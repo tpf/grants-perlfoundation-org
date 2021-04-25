@@ -76,7 +76,7 @@ Side node: Eventually, I'm too dumb to see that we don't need one because Perl c
 
 ## Tooling
 
-### A regularly updated compendium of Perl IDEs to be hosted on perl.org
+### A regularly updated compendium of Perl IDEs to be hosted on perl.org
 
 Results of the (survey of newcomers to
 Perl)[https://news.perlfoundation.org/post/newperluserssurvey]

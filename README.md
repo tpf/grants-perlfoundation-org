@@ -134,14 +134,6 @@ It is written in haskell (and in the past Perl and Haskell folks were good frien
 
 Some resources that could help [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) (Haskell tutorial), a [Haskell based parser for a Perl like language](https://github.com/ashgti/DTI) or a [Perl 5 grepping tool or isomorphic code written in haskell](https://github.com/ikkeps/isocode).
 
-### Add Perl runtime to kubeless
-
-[Kubeless](https://github.com/kubeless/kubeless) is a serverless framework (and a kind of Function as a Services framework) that comes with various "runtimes" (mainly a docker image + an entrypoint + a documentation). Kubeless currently does not support Perl (even if the `perl` interpreter is embedded in some docker images used in other runtimes). [stanguturi](https://github.com/stanguturi) provided a [pull request](https://github.com/kubeless/kubeless/pull/1014) to implement this, but runtimes were since then moved apart in a dedicated [runtimes](https://github.com/kubeless/runtimes) repository.
-
-The goal of this (small) grant would be to add a minimal support of one (recent) Perl version based on [docker-perl](https://github.com/Perl/docker-perl).
-Other flavors (perl 5.10.1, perl + mojolicious, perl + dancer, perl + catalyst) are welcome but would be a bonus.
-
-
 ## Documentation
 ### [DBIx::Class re-documentation](http://blogs.perl.org/users/makoto_nozaki/2015/07/grant-idea---dbixclass-re-documentation.html) (from @ribasushi)
 

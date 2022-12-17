@@ -167,13 +167,13 @@ All the milestones that will deliver on accessibility.
 
 ### SparrowHub
 
-[SparrowHub](http://repo.westus.cloudapp.azure.com/hub) is a repository of [Sparrow](https://github.com/melezhik/Sparrow6) plugins - reusable scripts for various automation tasks. Plugins are written on many languages and get run eithor by `cli` or through a programmatic Raku API. Both Raku and Perl community might gain an advantage of plugins eco system easing developers life. SparrowHub could be thought as a MetaCPAN/Raku modules but with more practical approach - find a plugin and run it straight away. It's dead easy to create new plugins and distribute them. 
+[SparrowHub](https://sparrowhub.io) is a repository of [Sparrow](https://github.com/melezhik/Sparrow6) plugins - reusable scripts for various automation tasks. Plugins are written on many languages and get run eithor by `cli` or through a programmatic Raku API. Both Raku and Perl community might gain an advantage of plugins eco system easing developers life. SparrowHub could be thought as a MetaCPAN/Raku modules but with more practical approach - find a plugin and run it straight away. It's dead easy to create new plugins and distribute them. 
 
 So a proposal is:
 
 * Finishing SparrowHub site development ( site UI improvements, getting better DNS name, logo creation, so on )
 * Finishing plugins migration to a new version of Sparrow ( see this [roadmap](https://github.com/melezhik/Sparrow6/blob/master/Roadmap.md#medium-priority) )
-* Adding new plugins are of the interest for both Raku and Perl communities. ( Some Raku/Perl related plugins could be found on [SparrowHub](http://repo.westus.cloudapp.azure.com/hub/search?q=perl+%7C%7C+Perl+%7C%7C+Raku+%7C%7C+raku+%7C%7C+cpm+%7C%7C+cpan+%7C%7C+zef+) )
+* Adding new plugins are of the interest for both Raku and Perl communities. ( Some Raku/Perl related plugins could be found on [SparrowHub](http://sparrowhub.io/search?q=perl+%7C%7C+Perl+%7C%7C+Raku+%7C%7C+raku+%7C%7C+cpm+%7C%7C+cpan+%7C%7C+zef+) )
 
 ## Tooling
 

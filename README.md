@@ -155,10 +155,6 @@ Benchmark and assess TPF websites and online assets based upon the approved stan
 
 All the milestones that will deliver on accessibility.
 
-## External site
-
-### [BountySource has a few ideas on Perl](https://www.bountysource.com/teams/perl/issues)
-
 # Raku
 
 ## Raku core

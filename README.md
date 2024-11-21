@@ -1,11 +1,14 @@
-The Perl Foundation provides grants for work that is valuable to the Perl and Raku communities.
+
+The [Perl and Raku Foundation (TPRF)](https://www.perlfoundation.org/) provide community grants for work that is valuable to the Perl and Raku communities.
+
+The purpose of this page is to provide a resource for community members to record ideas that might be appropriate for TPRF community grant funding.
 
 * If you are looking to work on a grant to help the community, take a look at this list.
 * If you have suggestions for useful work (whether for the communities or for the languages), please [open an issue](https://github.com/tpf/grants-perlfoundation-org/issues) or [submit a pull request](https://github.com/tpf/grants-perlfoundation-org/pulls) and, once approved, it will show up here.
 
 While we try to keep this list relevant, things can easily get out of date. Before grabbing a task, check that a similar investment is not done recently.
 
-⚠️ *Disclaimer* The list does not guarantee that TPF will fund any grant proposal based on them. This is still subject to a vote.
+⚠️ *Disclaimer* The list does not guarantee that TPRF will fund any grant proposal based on them. All grants must go through the submission and evaluation process.
 
 # Perl
 
